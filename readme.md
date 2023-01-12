@@ -1,1 +1,1 @@
-#First Phaser Game fro CISC367
+#First Phaser Game for CISC367
